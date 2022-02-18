@@ -1,0 +1,19 @@
+.lottery__title{
+	font-size: 28px;
+}
+.numbers{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.number{
+	font-size: 24px;
+	margin: 0 30px ;
+	background: orange;
+	border-radius: 50%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 60px;
+	height: 60px;
+}
